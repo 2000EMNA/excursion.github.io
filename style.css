@@ -9,7 +9,7 @@ header p {
     font-size: 50px;
 }
 
-p{
+main p, footer p{
     color:gray;
     font-size: 21px;
 }
